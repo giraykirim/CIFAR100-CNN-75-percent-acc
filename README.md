@@ -65,3 +65,9 @@ Kısa vadede aşağıdaki adımların doğruluğu artırması beklenir:
 - **Mühendislik:** `ONNX/TFLite` dönüştürme, hafifletilmiş çıkarım, **Streamlit/Gradio** ile arayüz, **Docker** ile paketleme.
 
 > Bu proje, bootcamp sonrasında da geliştirilmeye açık olacak şekilde tasarlandı. Yeni veri toplama yöntemleri, gerçek zamanlı çıkarım ve farklı model aileleri (ör. Vision Transformer) ileride eklenecek çalışmalar arasındadır.
+
+---
+
+## Kaggle Linkleri
+İşte notebookumun olduğu kaggle linki
+https://www.kaggle.com/code/giraykrm/cifar100-cnn
